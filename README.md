@@ -23,6 +23,8 @@ cd docker-react-node
 
 # Execute the project
 docker-compose up
+
+Go to http://localhost:3000/
 ```
 
 ## Autor
