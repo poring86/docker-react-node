@@ -2,7 +2,7 @@
 
 ## About the project
 
-It's a dockerised full stack app.
+It's a dockerised full-stack app.
 
 ## Some of technologies used on the project
 
